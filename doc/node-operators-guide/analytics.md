@@ -16,8 +16,5 @@ See [sql](ref:sql) for a full primer on its usage.
 
 There are a handful of third-party GUI tools that provide analytics on the top of your node, apart from helping you manage your node:
 
-- [Ride-the-Lightning](https://www.ridethelightning.info/)
 - [Umbrel](https://getumbrel.com/)
-- [bolt.observer](https://bolt.observer)
-- [LN Node Insights](https://lnnodeinsight.com/)
 - [Munin](https://github.com/lduchosal/munin-clightning)
